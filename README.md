@@ -1,7 +1,7 @@
 Hiiiiiiiiiiiiii
 
 # AI 4 Africa Workshop Starter Repo
-Group 3
+Hello Group 3 Prodigies
 <p align="center">
   <a href="https://github.com/AI4Africa-MBZUAI-ALA/github_tutorial/fork">
     <img src="https://img.shields.io/badge/Fork%20this%20repo-Start%20here-brightgreen?style=for-the-badge" alt="Fork this repo" />
