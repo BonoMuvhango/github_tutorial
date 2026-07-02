@@ -8,6 +8,8 @@ Group 3
   </a>
 </p>
 
+*Life is too short to worry about what you can't control*
+
 🚀 Welcome to the starter repo for the AI 4 Africa workshop.
 
 This repository is designed for beginners. It teaches collaboration first and
