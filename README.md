@@ -90,7 +90,6 @@ Create and activate a virtual environment with `venv`.
 Mac or Linux:
 
 ```bash
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 python -m venv .venv
 source .venv/bin/activate
 ```
@@ -98,6 +97,7 @@ source .venv/bin/activate
 Windows PowerShell:
 
 ```bash
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
