@@ -116,12 +116,26 @@ Why this matters:
 Example:
 
 ```bash
-pip install pandas scikit-learn matplotlib streamlit
-pip freeze > requirements.txt
+pip install -r requirements.txt
 ```
 
 At minimum, keep `requirements.txt` up to date whenever the code needs a new
 package.
+
+If `pip` does not work on your computer, use `python -m pip` instead:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+For a single package, the same idea works:
+
+```bash
+python -m pip install pandas
+```
+
+This project expects you to create the virtual environment first, then install
+the required packages, and only then start vibecoding.
 
 ## 🔁 Suggested Group Flow
 
@@ -149,19 +163,11 @@ python main.py
 
 If a step is still missing, `main.py` will tell you which one.
 
-## 🧠 Why This Works For Beginners
+If the first run does not work, ask Claude for help and feedback.
 
-The pipeline feels like a relay race:
-
-- fetch the raw story
-- clean it up
-- train a model
-- check whether it works
-- turn results into pictures
-- show it in a dashboard
-
-That helps students see how teamwork turns small pieces into one complete AI
-system.
+- Ask: "Why is this not working?"
+- Do not only ask: "Fix it."
+- Use the explanation to understand the problem before changing the code.
 
 ## 👥 Workshop Inspiration
 
