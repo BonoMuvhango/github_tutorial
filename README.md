@@ -2,9 +2,14 @@ Hiiiiiiiiiiiiii
 
 # AI 4 Africa Workshop Starter Repo
 <<<<<<< HEAD
+<<<<<<< HEAD
 Group 3
 hello
 =======
+=======
+Group 3 
+goeie naand julle
+>>>>>>> 066836ee314f8a376dc093ba202f3d693796d534
 Hello Group 3 Prodigies
 >>>>>>> 82f43f563c2755d3242c8faaabee6d535dc9884c
 <p align="center">
